@@ -17,7 +17,7 @@ const ExercisePage = () => {
       method: "GET",
       url: `https://exercisedb.p.rapidapi.com/exercises/bodyPart/${selectedMuscle}`,
       headers: {
-        "X-RapidAPI-Key": "3190d2cd3amshe401585bbe87576p18b44djsn7669ffd89aa8",
+        "X-RapidAPI-Key": "0f60d26030mshc0acff015286fc2p12a26fjsn1733c2578ede",
         "X-RapidAPI-Host": "exercisedb.p.rapidapi.com",
       },
     };
